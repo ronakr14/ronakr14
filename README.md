@@ -1,4 +1,4 @@
-### hey there 
+### Hey There 
 <a href="https://www.instagram.com/rastar14/">
   <img align="left" alt="Ronak's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -18,7 +18,7 @@ Hi, I'm Ronak Rathore, from India.
 I am an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:ronak.rathore05@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
