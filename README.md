@@ -48,6 +48,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ronakr14)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br>
 <div>
   <a align="left" href="https://github.com/ronakr14/Network_Intrusion_Detection_System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronakr14&repo=Network_Intrusion_Detection_System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
