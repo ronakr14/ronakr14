@@ -20,10 +20,10 @@ Hi, I'm Ronak Rathore, from Maharashtra,India. <br>
 I am a beginner in Big Data Field. Currently looking for job (Mainstream or Freelancer).<br>
 I am an open-source enthusiast and learner. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" width="500" height="320" />
-
 - 💼 any freelance work? do reach, [email](mailto:ronak.rathore05@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+<br>
+<p align="center"><img  alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" width="500" height="320" />
 
 <br>
 <br>
