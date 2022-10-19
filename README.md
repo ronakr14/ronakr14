@@ -38,17 +38,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## &#x1f4c8; GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ronakr14&show_icons=true&theme=gotham" alt="ronakr14" />
-<br>
+<br/>
 
 [![Ronak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronakr14&theme=rogue)](https://github.com/ronakr14)
 
 <br/>
 ![Ronak's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ronakr14) 
   
-<br>
+<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ronakr14)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
+<br/>
 <div>
   <a align="left" href="https://github.com/ronakr14/Network_Intrusion_Detection_System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronakr14&repo=Network_Intrusion_Detection_System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
