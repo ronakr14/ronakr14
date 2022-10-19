@@ -23,7 +23,7 @@ I am a beginner in Big Data Field. Currently looking for job (Mainstream or Free
 I am an open-source enthusiast and learner. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:ronak.rathore05@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -38,14 +38,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## &#x1f4c8; GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ronakr14&show_icons=true&theme=gotham" alt="ronakr14" />
-
-<a href="https://github.com/ronakr14/ronakr14">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=ronakr14&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/ronakr14/ronakr14">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronakr14&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ashutosh's GitHub Stats" />
-</a>
-<br/><br/>
+<br>
 
 [![Ronak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronakr14&theme=rogue)](https://github.com/ronakr14)
 
