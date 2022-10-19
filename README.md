@@ -39,12 +39,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ronakr14&show_icons=true&theme=gotham" alt="ronakr14" />
 <br>
-<div>
-  <a href="https://github.com/ronakr14/ronakr14">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakr14&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>  
-</div>
-<br>
+
 [![Ronak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronakr14&theme=rogue)](https://github.com/ronakr14)
 
 
