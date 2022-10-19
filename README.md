@@ -1,4 +1,9 @@
-### Hey There 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hey+there+I+am+Ronak+Rathore;I+love+finding+secrets+that+live+in+the+Data">
+  </a>
+</h1>
+
 <a href="https://www.instagram.com/rastar14/">
   <img align="left" alt="Ronak's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
