@@ -16,7 +16,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ronakr14.ronakr14)
 
-Hi, I'm Ronak Rathore, from India. <br>
+Hi, I'm Ronak Rathore, from Maharashtra,India. <br>
 I am a beginner in Big Data Field. Currently looking for job (Mainstream or Freelancer).<br>
 I am an open-source enthusiast and learner. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -132,10 +132,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
        alt="snake" /></a>
 </div>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ronakr14&show_icons=true&theme=gotham" alt="ronakr14" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ronakr14&show_icons=true&theme=gotham" alt="ronakr14" />
+
+<br>
 
 <a href="https://github.com/ronakr14/ronakr14">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakr14&layout=compact&theme=chartreuse-dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakr14&layout=compact&theme=chartreuse-dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   
 <br/>
