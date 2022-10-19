@@ -20,14 +20,13 @@ Hi, I'm Ronak Rathore, from Maharashtra,India. <br>
 I am a beginner in Big Data Field. Currently looking for job (Mainstream or Freelancer).<br>
 I am an open-source enthusiast and learner. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 💼 any freelance work? do reach, [email](mailto:ronak.rathore05@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:ronak.rathore05@gmail.com) :)<br>
 - 💬 ask me about anything, i am happy to help;
-<br>
-<p align="center"><img  alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" width="500" height="320" />
 
+<img  align="right" alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" style="float:right" width="300" height="220" />
 <br>
-<br>
-<h1> **Languages,Technologies and Tools:**  </h1>
+
+<h1> Languages,Technologies and Tools:  </h1>
 <br>
 Languages:
 <code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/python.svg" alt="python" title="python" /></code>
@@ -40,7 +39,7 @@ Languages:
 <code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/markdown.svg" alt="markdown" title="markdown" /></code>
 <code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/html-5.svg" alt="html-5" title="html-5" /></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
-<br>
+<br><br>
 
 Big Data Technologies:
 <code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/hadoop.svg" alt="hadoop" title="hadoop" /></code>
