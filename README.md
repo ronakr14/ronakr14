@@ -18,8 +18,8 @@
 
 <br />
 
-Hi, I'm Ronak Rathore, from India. 
-I am a beginner in Big Data Field. Currently looking for job (Mainstream or freelancer).
+Hi, I'm Ronak Rathore, from India. <br>
+I am a beginner in Big Data Field. Currently looking for job (Mainstream or Freelancer).<br>
 I am an open-source enthusiast and learner. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
@@ -31,10 +31,6 @@ I am an open-source enthusiast and learner. I learned a lot from the open-source
 **Languages and Tools:**  
 
 
-
-
-
-
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/ronakr14" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
@@ -44,7 +40,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ronakr14&show_icons=true&theme=gotham" alt="ronakr14" />
 
 <a href="https://github.com/ronakr14/ronakr14">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakr14&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=ronakr14&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/ronakr14/ronakr14">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronakr14&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ashutosh's GitHub Stats" />
