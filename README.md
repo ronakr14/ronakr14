@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hey+there+I+am+Ronak+Rathore;I+love+finding+secrets+that+live+in+the+Data">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hey+there+!!!+I+am+Ronak+Rathore;I+love+finding+secrets+that+is+hidden+in+the+Data">
   </a>
 </h1>
 
@@ -19,7 +19,7 @@
 <br />
 
 Hi, I'm Ronak Rathore, from India. 
-
+I am a beginner in Big Data Field. Currently looking for job (Mainstream or freelancer).
 I am an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
