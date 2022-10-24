@@ -125,9 +125,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br>
 
 <h1>&#x1f4c8; GitHub Stats</h1>
-<p align="center">
-  <img src="https://github.com/ronakr14/ronakr14/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
 <div>
   <h3>Languages</h3>
   <p align="center">
