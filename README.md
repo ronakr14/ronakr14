@@ -27,110 +27,97 @@ I am an open-source enthusiast and learner. I learned a lot from the open-source
 <img  align="right" alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" style="float:right" width="300" height="220" />
 
 <h1> Languages,Technologies and Tools:  </h1>
-<br>
 Languages:
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=#3776AB)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=#276DC3)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=#A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=#00599C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=#F7DF1E)&nbsp;
+![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala&logoColor=#DC322F)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown&logoColor=#000000)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=#E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=#1572B6)&nbsp;
 
+Big Data Technologies:\
+![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=Apache%20Hadoop&logoColor=#66CCFF)&nbsp;
+![MapReduce](https://img.shields.io/badge/-MapReduce-05122A?style=flat&logo=MapReduce&logoColor=1572B6)&nbsp;
+![Apache Pig](https://img.shields.io/badge/-Apache%20Pig-05122A?style=flat&logo=Apache%20Pig&logoColor=1572B6)&nbsp;
+![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-05122A?style=flat&logo=Apache%20Hive&logoColor=##FDEE21)&nbsp;
+![Apache HBase](https://img.shields.io/badge/-Apache%20HBase-05122A?style=flat&logo=Apache%20HBase&logoColor=1572B6)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=Apache%20Kafka&logoColor=#231F20)\
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=Apache%20Spark&logoColor=#E25A1C)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow&logoColor=#017CEE)&nbsp;
 
+Databases:\
+![Oracle Database](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle&logoColor=#F80000)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=#47A248)&nbsp;
+![Apache Cassandra](https://img.shields.io/badge/-Apache%20Cassandra-05122A?style=flat&logo=Apache%20Cassandra&logoColor=#1287B1)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=#4479A1)&nbsp;
+![Apache CouchDB](https://img.shields.io/badge/-Apache%20CouchDB-05122A?style=flat&logo=Apache%20CouchDB&logoColor=#E42528)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=#003B57)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=#DC382D)&nbsp;
 
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/python.svg" alt="python" title="python" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/r-lang.svg" alt="r-lang" title="r-lang" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/java.svg" alt="java" title="java" /></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/c-plusplus.svg" alt="c-plusplus" title="c-plusplus" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/javascript.svg" alt="javascript" title="javascript" /></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/185062806-7be3b0f6-3373-44a8-be19-21ddd2307a70.png" alt="Scala" title="Scala" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/markdown.svg" alt="markdown" title="markdown" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/html-5.svg" alt="html-5" title="html-5" /></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
-<br><br>
+Cloud Technologies:\
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=Amazon%20AWS&logoColor=#232F3E)&nbsp;
+![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-05122A?style=flat&logo=Amazon%20EC2&logoColor=#DC382D)&nbsp;
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-05122A?style=flat&logo=Amazon%20S3&logoColor=#569A31)&nbsp;
+![Amazon VPC](https://img.shields.io/badge/-Amazon%20VPC-05122A?style=flat&logo=Amazon%20VPC&logoColor=#DC382D)&nbsp;
+![Amazon Glacier](https://img.shields.io/badge/-Amazon%20Glacier-05122A?style=flat&logo=Amazon%20Glacier&logoColor=#DC382D)&nbsp;
+![Amazon Lambda](https://img.shields.io/badge/-Amazon%20Lambda-05122A?style=flat&logo=Amazon%20Lambda&logoColor=#FF9900)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku&logoColor=#430098)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress&logoColor=#21759B)&nbsp;
 
-Big Data Technologies:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/hadoop.svg" alt="hadoop" title="hadoop" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/hbase.svg" alt="hbase" title="hbase" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/kafka.svg" alt="kafka" title="kafka" /></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/airflow.svg" alt="airflow" title="airflow" /></code>
-<br>
+Containers:\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=#2496ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=#326CE5)&nbsp;
 
-Databases:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/oracle.svg" alt="oracle" title="oracle" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/mongodb-icon.svg" alt="mongodb-icon" title="mongodb-icon" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/cassandra.svg" alt="cassandra" title="cassandra" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/mysql-icon.svg" alt="mysql-icon" title="mysql-icon" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/couchdb-icon.svg" alt="couchdb-icon" title="couchdb-icon" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/sqlite.svg" alt="sqlite" title="sqlite" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/redis.svg" alt="redis" title="redis" /></code>
-<br>
+Machine Learning:\
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn&logoColor=#F7931E)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras&logoColor=#D00000)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&logoColor=#FF6F00)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&logoColor=#EE4C2C)&nbsp;
 
-Cloud Technologies:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/aws.svg" alt="aws" title="aws" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/aws-ec2.svg" alt="aws-ec2" title="aws-ec2" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/aws-s3.svg" alt="aws-s3" title="aws-s3" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/aws-vpc.svg" alt="aws-vpc" title="aws-vpc" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/aws-glacier.svg" alt="aws-glacier" title="aws-glacier" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/aws-lambda.svg" alt="aws-lambda" title="aws-lambda" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/heroku-icon.svg" alt="heroku-icon" title="heroku-icon" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/wordpress-icon.svg" alt="wordpress-icon" title="wordpress-icon" /></code>
-<br>
+Visualization Tools:\
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Power%20BI&logoColor=#F2C811)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau&logoColor=#E97627)&nbsp;
 
-Containers:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/docker.svg" alt="docker" title="docker" /></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" /></code>
-<br>
+Editors:\
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter&logoColor=#F37626)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm&logoColor=#000000)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=#6DB33F)&nbsp;
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=Eclipse%20IDE&logoColor=#2C2255)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code&logoColor=#007ACC)&nbsp;
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=Vim&logoColor=#019733)&nbsp;
 
-Machine Learning:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/pytorch-icon.svg" alt="pytorch-icon" title="pytorch-icon" /></code>
-<br>
+Others:\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&logoColor=#F05032)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub&logoColor=#181717)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab&logoColor=#FC6D26)&nbsp;
+![Curl](https://img.shields.io/badge/-curl-05122A?style=flat&logo=curl&logoColor=#073551)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON&logoColor=#000000)&nbsp;
+![JADE](https://img.shields.io/badge/-JADE-05122A?style=flat&logo=JADE&logoColor=#019733)&nbsp;
 
-Visualization Tools:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/microsoft-power-bi.svg" alt="microsoft-power-bi" title="microsoft-power-bi" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/tableau-icon.svg" alt="tableau-icon" title="tableau-icon" /></code>
-<br>
+Linux Related:\
+![Terminal](https://img.shields.io/badge/-GNOME%20Terminal-05122A?style=flat&logo=GNOME%20Terminal&logoColor=#241F31)&nbsp;
+![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash&logoColor=#4EAA25)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=#E95420)&nbsp;
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-05122A?style=flat&logo=Red%20Hat&logoColor=#EE0000)&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=Kali%20Linux&logoColor=#557C94)&nbsp;
 
-Editors:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/jupyter.svg" alt="jupyter" title="jupyter" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/pycharm.svg" alt="pycharm" title="pycharm" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/spring-icon.svg" alt="spring-icon" title="spring-icon" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/eclipse-icon.svg" alt="eclipse-icon" title="eclipse-icon" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/visual-studio-code.svg" alt="visual-studio-code" title="visual-studio-code" /></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim" /></code>
-<br>
+Python Related:\
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&logoColor=#000000)&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit&logoColor=#FF4B4B)&nbsp;
+![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas&logoColor=#150458)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy&logoColor=#013243)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&logoColor=#150458)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&logoColor=#150458)&nbsp;
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=SciPy&logoColor=#8CAAE6)&nbsp;
 
-Others:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/git-icon.svg" alt="git-icon" title="git-icon" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/github-icon.svg" alt="github-icon" title="github-icon" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/gitlab.svg" alt="gitlab" title="gitlab" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/curl.svg" alt="curl" title="curl" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/json.svg" alt="json" title="json" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/jade.svg" alt="jade" title="jade" /></code>
-<br>
-
-Linux Related:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/terminal.svg" alt="terminal" title="terminal" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/bash-icon.svg" alt="bash-icon" title="bash-icon" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/ubuntu.svg" alt="ubuntu" title="ubuntu" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/redhat-icon.svg" alt="redhat-icon" title="redhat-icon" /></code>
-<br>
-
-Python Related:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/flask.svg" alt="flask" title="flask" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/streamlit.svg" alt="streamlit" title="streamlit" /></code>
-<br>
-
-JavaScript Related:
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/nodejs-icon.svg" alt="nodejs-icon" title="nodejs-icon" /></code>
-<code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/express.svg" alt="express" title="express" /></code>
-<br>
+JavaScript Related:\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=#339933)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js&logoColor=#E95420)&nbsp;
 
 <br>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -155,7 +142,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ronakr14&theme=gotham" />
     </a>
   </p>
-  <br>
+  
 </div>
 <h3>Latest Activity</h3>
 
@@ -163,7 +150,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ronakr14&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/>
 <div>
   <a align="left" href="https://github.com/ronakr14/Network_Intrusion_Detection_System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronakr14&repo=Network_Intrusion_Detection_System&theme=gotham" />
