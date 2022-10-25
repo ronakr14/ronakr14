@@ -29,6 +29,19 @@ I am an open-source enthusiast and learner. I learned a lot from the open-source
 <h1> Languages,Technologies and Tools:  </h1>
 <br>
 Languages:
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+
+
 <code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/python.svg" alt="python" title="python" /></code>
 <code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/r-lang.svg" alt="r-lang" title="r-lang" /></code>
 <code><img height="30" src="https://github.com/ronakr14/ronakr14/blob/main/logos/java.svg" alt="java" title="java" /></code>
