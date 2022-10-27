@@ -45,8 +45,8 @@ Big Data Technologies:\
 ![MapReduce](https://img.shields.io/badge/-MapReduce-05122A?style=flat&logo=MapReduce&logoColor=1572B6)&nbsp;
 ![Apache Pig](https://img.shields.io/badge/-Apache%20Pig-05122A?style=flat&logo=Apache%20Pig&logoColor=1572B6)&nbsp;
 ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-05122A?style=flat&logo=Apache%20Hive&logoColor=##FDEE21)&nbsp;
-![Apache HBase](https://img.shields.io/badge/-Apache%20HBase-05122A?style=flat&logo=Apache%20HBase&logoColor=1572B6)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=Apache%20Kafka&logoColor=#231F20)\
+![Apache HBase](https://img.shields.io/badge/-Apache%20HBase-05122A?style=flat&logo=Apache%20HBase&logoColor=1572B6)&nbsp;\
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=Apache%20Kafka&logoColor=#231F20)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=Apache%20Spark&logoColor=#E25A1C)&nbsp;
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow&logoColor=#017CEE)&nbsp;
 
