@@ -6,7 +6,8 @@
 <h1>About me</h1>
 <div align="left">
 Hi, I'm Ronak Rathore, from Maharashtra,India. <br>
-I am a beginner in Big Data Field. Currently looking for job (Mainstream or Freelancer).<br>
+I am currently working with Nitor Infotech as Trainee Software Engineer <img alt="Nitor Infotech" src="https://www.nitorinfotech.com/wp-content/uploads/2022/04/cropped-nitor-logo-1.png?raw=true" style="float:right" width="40" height="20" /> <br>
+I am a beginner in Big Data Field.<br>
 I am an open-source enthusiast and learner. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
 - 📄 Please have a look at my [Resume](https://drive.google.com/file/d/13WCkYuWMH00S6F-UGEwFrU3DxuYXECo3) for more details about me. I'm open to feedback and suggestions!    
