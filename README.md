@@ -153,7 +153,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <h3>Latest Activity</h3>
 
-[![Ronak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronakr14&theme=github-compact)](https://github.com/ronakr14/github-readme-activity-graph)
+[![Ronak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronakr14&theme=react-dark)](https://github.com/ronakr14/github-readme-activity-graph)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ronakr14&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy)
 
