@@ -127,9 +127,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br>
 
 <h1>&#x1f4c8; GitHub Stats</h1>
+-----
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+  </a>
 </div>
+-----
 <div>
   <h3>Languages</h3>
   <p align="center">
