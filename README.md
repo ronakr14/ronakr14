@@ -152,9 +152,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </div>
 <h3>Latest Activity</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Ronak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronakr14&theme=gotham)](https://github.com/ronakr14)
+[![Ronak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app?username=ronakr14&theme=gotham)](https://github.com/ronakr14)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ronakr14&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy)
 
