@@ -6,11 +6,16 @@
 <h1>About me</h1>
 <div align="left">
 Hi, I'm Ronak Rathore, from Maharashtra,India. <br>
+<<<<<<< HEAD
+I am currently working with Nitor Infotech as Software Engineer <img alt="Nitor Infotech" src="https://www.nitorinfotech.com/wp-content/uploads/2022/04/cropped-nitor-logo-1.png?raw=true" style="float:right" width="40" height="20" /> <br>
+I have a professional experience of 5 years.<br>
+=======
 I am currently working with Nitor Infotech as Trainee Software Engineer <img alt="Nitor Infotech" src="https://www.nitorinfotech.com/wp-content/themes/custom-dev-theme-elementor-master/assets/img/home_img/logo.png?raw=true" style="float:right" width="40" height="20" /> <br>
 I am a beginner in Big Data Field.<br>
+>>>>>>> 23091d4918f10356498032c38c7df6d108e3e524
 I am an open-source enthusiast and learner. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
-- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/13WCkYuWMH00S6F-UGEwFrU3DxuYXECo3) for more details about me. I'm open to feedback and suggestions!    
+<!-- - 📄 Please have a look at my [Resume](https://drive.google.com/file/d/13WCkYuWMH00S6F-UGEwFrU3DxuYXECo3) for more details about me. I'm open to feedback and suggestions!     -->
 - 💼 any freelance work? do reach, [email](mailto:ronak.rathore05@gmail.com) :)<br>
 - 💬 ask me about anything, i am happy to help;
 </div>
@@ -19,14 +24,15 @@ I am an open-source enthusiast and learner. I learned a lot from the open-source
 <div align="left">
 <a href="https://www.instagram.com/rastar14/"><img alt="Ronak's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/rastar1408"><img alt="Ronak Rathore | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ronak-rathore-4981b0117/"><img alt="Ronak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<!-- <a href="https://twitter.com/rastar1408"><img alt="Ronak Rathore | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+&nbsp;&nbsp; -->
+<a href="https://www.linkedin.com/in/ronak-rathore05/"><img alt="Ronak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" /></a>
 </div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ronakr14.ronakr14)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ronakr14.ronakr14) -->
 
 <img  align="right" alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" style="float:right" width="300" height="220" />
+<br>
 
 <h1> Languages,Technologies and Tools:  </h1>
 Languages:
@@ -121,9 +127,9 @@ JavaScript Related:\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=#339933)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js&logoColor=#E95420)&nbsp;
 
-<br>
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<br><a href="https://www.buymeacoffee.com/ronakr14" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<!-- <br> -->
+<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<br><a href="https://www.buymeacoffee.com/ronakr14" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 <br>
 
 <h1>&#x1f4c8; GitHub Stats</h1>
