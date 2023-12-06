@@ -156,7 +156,7 @@ JavaScript Related:\
 
 [![Ronak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronakr14&theme=react-dark)](https://github.com/ronakr14/github-readme-activity-graph)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ronakr14&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![Trophy](https://github-profile-trophy.vercel.app/?username=ronakr14&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <div>
   <a align="left" href="https://github.com/ronakr14/Network_Intrusion_Detection_System">
