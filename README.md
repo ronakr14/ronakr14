@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
 <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hey+there+!!!+I+am+Ronak+Rathore;I+love+finding+secrets+hidden+in+the+Data"></a></h1>
-</div>
+</div> -->
 
 <h1>About me</h1>
 <div align="left">
@@ -14,18 +14,18 @@ I am an open-source enthusiast and learner. I learned a lot from the open-source
 - 💬 ask me about anything, i am happy to help;
 </div>
 
-<h1>Connect With Me</h1>
+<!-- <h1>Connect With Me</h1>
 <div align="left">
 <a href="https://www.instagram.com/rastar14/"><img alt="Ronak's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
 <!-- <a href="https://twitter.com/rastar1408"><img alt="Ronak Rathore | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 &nbsp;&nbsp; -->
-<a href="https://www.linkedin.com/in/ronak-rathore05/"><img alt="Ronak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" /></a>
-</div>
+<!-- <a href="https://www.linkedin.com/in/ronak-rathore05/"><img alt="Ronak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" /></a>
+</div> -->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=ronakr14.ronakr14) -->
 
-<img  align="right" alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" style="float:right" width="300" height="220" />
+<!-- <img  align="right" alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" style="float:right" width="300" height="220" />
 <br>
 
 <h1> Languages,Technologies and Tools:  </h1>
@@ -50,9 +50,9 @@ Big Data Technologies:\
 ![Apache HBase](https://img.shields.io/badge/-Apache%20HBase-05122A?style=flat&logo=Apache%20HBase&logoColor=1572B6)&nbsp;\
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=Apache%20Kafka&logoColor=#231F20)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=Apache%20Spark&logoColor=#E25A1C)&nbsp;
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow&logoColor=#017CEE)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow&logoColor=#017CEE)&nbsp; -->
 
-Databases:\
+<!-- Databases:\
 ![Oracle Database](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle&logoColor=#F80000)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=#47A248)&nbsp;
 ![Apache Cassandra](https://img.shields.io/badge/-Apache%20Cassandra-05122A?style=flat&logo=Apache%20Cassandra&logoColor=#1287B1)&nbsp;
@@ -119,22 +119,22 @@ Python Related:\
 
 JavaScript Related:\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=#339933)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js&logoColor=#E95420)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js&logoColor=#E95420)&nbsp; -->
 
 <!-- <br> -->
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br><a href="https://www.buymeacoffee.com/ronakr14" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 <br>
 
-<h1>&#x1f4c8; GitHub Stats</h1>
+<!-- <h1>&#x1f4c8; GitHub Stats</h1> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
   </a>
-</div>
+</div> -->
 
-<div>
+<!-- <div>
   <h3>Languages</h3>
   <p align="center">
   <a href="https://github.com/ronakr14/">
@@ -151,14 +151,14 @@ JavaScript Related:\
   
 </div>
 
-<h3>Latest Activity</h3>
+<h3>Latest Activity</h3> -->
 
-[![Ronak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronakr14&theme=react-dark)](https://github.com/ronakr14/github-readme-activity-graph)
+<!-- [![Ronak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronakr14&theme=react-dark)](https://github.com/ronakr14/github-readme-activity-graph) -->
 
 <!--[![Trophy](https://github-profile-trophy.vercel.app/?username=ronakr14&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-<div>
+<!-- <div>
   <a align="left" href="https://github.com/ronakr14/Network_Intrusion_Detection_System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronakr14&repo=Network_Intrusion_Detection_System&theme=gotham" />
 </a> 
-</div>
+</div> -->
