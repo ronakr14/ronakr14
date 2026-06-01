@@ -5,7 +5,7 @@
 
 <h1>About me</h1>
 <div align="left">
-Hi, I'm Ronak Rathore, from Maharashtra,India. <br>
+Hi, I'm Ronak Rathore, from Pune, Maharashtra,India. <br>
 I am currently working with Nitor Infotech as Senior Data Engineer <img alt="Nitor Infotech" src="https://www.nitorinfotech.com/wp-content/themes/custom-dev-theme-elementor-master/assets/img/home_img/logo.png?raw=true" style="float:right" width="40" height="20" /> <br><br>
 I am an open-source enthusiast and learner. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
