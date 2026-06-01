@@ -10,7 +10,6 @@ I am currently working with Nitor Infotech as Senior Data Engineer <img alt="Nit
 I am an open-source enthusiast and learner. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
 <!-- - 📄 Please have a look at my [Resume](https://drive.google.com/file/d/13WCkYuWMH00S6F-UGEwFrU3DxuYXECo3) for more details about me. I'm open to feedback and suggestions!     -->
-- 💼 any freelance work? do reach, [email](mailto:ronak.rathore05@gmail.com) :)<br>
 - 💬 ask me about anything, i am happy to help;
 </div>
 
